@@ -1,6 +1,6 @@
 # Sharuf Zaryab
 
-Rust backend engineer. I build distributed systems, async APIs, and real-time backends. Background in C++ before switching full-time to Rust.
+Rust backend engineer. I build distributed systems, async APIs, and real-time backends. Currently invested in high performance inference optimization.
 
 ---
 
